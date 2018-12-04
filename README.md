@@ -9,3 +9,5 @@
 [cve](https://www.cvedetails.com) Exploits DB
 
 [wappalyzer](https://www.wappalyzer.com/) - analyze technologies used
+
+[xss-payloads](http://www.xss-payloads.com/index.html)
