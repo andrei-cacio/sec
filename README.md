@@ -13,3 +13,5 @@
 [xss-payloads](http://www.xss-payloads.com/index.html)
 
 [file-buster](https://github.com/henshin/filebuster) - scan routes on domains
+
+[google cheatsheet](https://www.exploit-db.com/google-hacking-database)
