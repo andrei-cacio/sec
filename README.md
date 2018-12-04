@@ -15,3 +15,5 @@
 [file-buster](https://github.com/henshin/filebuster) - scan routes on domains
 
 [google cheatsheet](https://www.exploit-db.com/google-hacking-database)
+
+[https://cirt.net/passwords](https://cirt.net/passwords) default passwords
