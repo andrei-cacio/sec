@@ -11,3 +11,5 @@
 [wappalyzer](https://www.wappalyzer.com/) - analyze technologies used
 
 [xss-payloads](http://www.xss-payloads.com/index.html)
+
+[file-buster](https://github.com/henshin/filebuster) - scan routes on domains
