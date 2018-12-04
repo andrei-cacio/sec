@@ -7,3 +7,5 @@
 [altormutual](http://altoromutual.com/) - vulnerable site to excercise on
 
 [cve](https://www.cvedetails.com) Exploits DB
+
+[wappalyzer](https://www.wappalyzer.com/) - analyze technologies used
