@@ -19,3 +19,5 @@
 [https://cirt.net/passwords](https://cirt.net/passwords) default passwords
 
 [https://highon.coffee/blog/](https://highon.coffee/blog/) - found this blog with useful pen testing info
+
+[testssl](https://testssl.sh/) - test for ssl vul
