@@ -17,3 +17,5 @@
 [google cheatsheet](https://www.exploit-db.com/google-hacking-database)
 
 [https://cirt.net/passwords](https://cirt.net/passwords) default passwords
+
+[https://highon.coffee/blog/](https://highon.coffee/blog/) - found this blog with useful pen testing info
