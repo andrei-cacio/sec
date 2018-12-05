@@ -23,3 +23,7 @@
 [testssl](https://testssl.sh/) - test for ssl vul
 
 [slowhttp](https://github.com/shekyan/slowhttptest) - test for Slow Loris
+
+[searchsploit](https://www.exploit-db.com/searchsploit) - cli exploit search
+
+[metasploit](https://www.metasploit.com/) - the mother load
