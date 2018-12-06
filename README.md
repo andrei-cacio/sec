@@ -42,3 +42,5 @@
 [Vulnhub](https://www.vulnhub.com/) - vulnerable VMs to practice on
 
 [Seclist](https://github.com/danielmiessler/SecLists) - lists of usefull data (pass lists etc.)
+
+[JSParser](https://github.com/nahamsec/JSParser) - parse js files and expose link concatenations
