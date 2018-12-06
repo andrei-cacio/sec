@@ -27,3 +27,5 @@
 [searchsploit](https://www.exploit-db.com/searchsploit) - cli exploit search
 
 [metasploit](https://www.metasploit.com/) - the mother load
+
+[OWASP ASVS](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project) - security standard
