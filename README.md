@@ -1,6 +1,7 @@
 # Tools
 ## Pen Testing
 [Burp](https://portswigger.net) - pen testing tool
+[ZEP proxy](https://github.com/zaproxy/zaproxy) - Burp alternative
 
 [haveibeenpwned](https://haveibeenpwned.com/) - check email if it was leaked
 
