@@ -33,3 +33,5 @@
 [OWASP JuiceShop](https://github.com/bkimminich/juice-shop) - hackable app
 
 [Security framework](https://www.securityknowledgeframework.org/) - a comprehensive security checklist
+
+[OWASP security checklist](https://www.owasp.org/index.php/File:OWASP_SCP_Quick_Reference_Guide_v2.pdf) 
