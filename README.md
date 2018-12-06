@@ -44,3 +44,7 @@
 [Seclist](https://github.com/danielmiessler/SecLists) - lists of usefull data (pass lists etc.)
 
 [JSParser](https://github.com/nahamsec/JSParser) - parse js files and expose link concatenations
+
+[http://owaspsamm.org/](http://owaspsamm.org/) - enterprise security model
+
+[BDD security](https://continuumsecurity.net/bdd-security/) - CI security scan
