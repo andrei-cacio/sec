@@ -38,3 +38,7 @@
 [OWASP security checklist](https://www.owasp.org/index.php/File:OWASP_SCP_Quick_Reference_Guide_v2.pdf) 
 
 [OWASP testing guide](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents) - for QA and Pen Testers
+
+[Vulnhub](https://www.vulnhub.com/) - vulnerable VMs to practice on
+
+[Seclist](https://github.com/danielmiessler/SecLists) - lists of usefull data (pass lists etc.)
