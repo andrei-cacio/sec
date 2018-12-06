@@ -29,3 +29,5 @@
 [metasploit](https://www.metasploit.com/) - the mother load
 
 [OWASP ASVS](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project) - security standard
+
+[OWASP JuiceShop](https://github.com/bkimminich/juice-shop) - hackable app
